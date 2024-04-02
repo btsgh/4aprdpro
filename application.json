@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Calendar Mobile",
+      "isDefault": false
+    },
+    {
       "id": "Bugs and Issues",
       "isDefault": true
     }

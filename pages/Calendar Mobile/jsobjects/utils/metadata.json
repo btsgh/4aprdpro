@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Calendar Mobile",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Calendar Mobile_utils",
+  "deleted": false,
+  "gitSyncId": "660b9b559fd6a53d6292ceab_660ba3397e6b2b1f588eb2b8"
+}
