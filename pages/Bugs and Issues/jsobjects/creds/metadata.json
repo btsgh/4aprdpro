@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "creds",
+    "pageId": "Bugs and Issues",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "baseId",
+        "value": "''"
+      },
+      {
+        "name": "tableName",
+        "value": "''"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Bugs and Issues_creds",
+  "deleted": false,
+  "gitSyncId": "626724fd00cba01cd03026a9_64abdecd96b9e038b280cbdb"
+}
