@@ -107,9 +107,9 @@
       "name": "Movies",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Movies",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

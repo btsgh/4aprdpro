@@ -46,9 +46,9 @@
       "name": "Movies",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Movies",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
